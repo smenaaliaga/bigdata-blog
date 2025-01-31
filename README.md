@@ -1,11 +1,8 @@
-📢 ¿Aún no has leído nuestra entrada en el blog sobre Big Data?
+📢 ¿Aún no lees nuestra entrada sobre Big Data?
 
-Si trabajas con datos, es fundamental conocer las tecnologías que permiten procesarlos a gran escala. En nuestra última publicación, exploramos los pilares del Big Data: Hadoop, Spark y Hive.
+Si trabajas con datos y no tienes claro qué es Hadoop, Spark y Hive, este post es para ti. Hablamos de cómo estas tecnologías hacen posible procesar grandes volúmenes de información de forma eficiente.
 
-🌍 ¿Qué es el Big Data?
-El Big Data hace referencia al manejo de grandes volúmenes de información de manera eficiente. Con herramientas como Hadoop para almacenamiento distribuido, Spark para procesamiento en memoria y Hive para consultas SQL sobre datos masivos, es posible extraer valor y conocimiento de los datos.
+🔍 Big Data en pocas palabras:
+Es el manejo de datos masivos. Hadoop los almacena, Spark los procesa rápido y Hive permite hacer consultas SQL sobre ellos.
 
-🔗 Lee el artículo aquí: [enlace al blog]
-
-Déjanos tus comentarios y cuéntanos cómo utilizas estas tecnologías en tu trabajo. 🚀💡
-
+🔗 Léelo aquí: [enlace al blog]
